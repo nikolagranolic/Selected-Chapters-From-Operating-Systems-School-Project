@@ -1,0 +1,44 @@
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.csproj.AssemblyReference.cache
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.AssemblyInfoInputs.cache
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.AssemblyInfo.cs
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\bin\Debug\net6.0\TaskSchedulerDemo.exe
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\bin\Debug\net6.0\TaskSchedulerDemo.deps.json
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\bin\Debug\net6.0\TaskSchedulerDemo.runtimeconfig.json
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\bin\Debug\net6.0\TaskSchedulerDemo.dll
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\bin\Debug\net6.0\TaskSchedulerDemo.pdb
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\bin\Debug\net6.0\TaskScheduler.dll
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\bin\Debug\net6.0\TaskScheduler.pdb
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.csproj.CopyComplete
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.dll
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\obj\Debug\net6.0\refint\TaskSchedulerDemo.dll
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.pdb
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.genruntimeconfig.cache
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\obj\Debug\net6.0\ref\TaskSchedulerDemo.dll
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\bin\Debug\net6.0\TaskSchedulerDemo.exe
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\bin\Debug\net6.0\TaskSchedulerDemo.deps.json
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\bin\Debug\net6.0\TaskSchedulerDemo.runtimeconfig.json
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\bin\Debug\net6.0\TaskSchedulerDemo.dll
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\bin\Debug\net6.0\TaskSchedulerDemo.pdb
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\bin\Debug\net6.0\TaskScheduler.dll
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\bin\Debug\net6.0\TaskScheduler.pdb
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.csproj.AssemblyReference.cache
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.AssemblyInfoInputs.cache
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.AssemblyInfo.cs
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.csproj.CopyComplete
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.dll
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\obj\Debug\net6.0\refint\TaskSchedulerDemo.dll
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.pdb
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\obj\Debug\net6.0\TaskSchedulerDemo.genruntimeconfig.cache
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskSchedulerDemo\obj\Debug\net6.0\ref\TaskSchedulerDemo.dll

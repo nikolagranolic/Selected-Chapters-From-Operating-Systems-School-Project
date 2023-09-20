@@ -1,0 +1,12 @@
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskScheduler\bin\Release\net6.0\TaskScheduler.deps.json
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskScheduler\bin\Release\net6.0\TaskScheduler.dll
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskScheduler\bin\Release\net6.0\TaskScheduler.pdb
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskScheduler\obj\Release\net6.0\TaskScheduler.csproj.AssemblyReference.cache
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskScheduler\obj\Release\net6.0\TaskScheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskScheduler\obj\Release\net6.0\TaskScheduler.AssemblyInfoInputs.cache
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskScheduler\obj\Release\net6.0\TaskScheduler.AssemblyInfo.cs
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskScheduler\obj\Release\net6.0\TaskScheduler.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskScheduler\obj\Release\net6.0\TaskScheduler.dll
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskScheduler\obj\Release\net6.0\refint\TaskScheduler.dll
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskScheduler\obj\Release\net6.0\TaskScheduler.pdb
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Odabrana poglavlja iz operativnih sistema\Projektni zadatak\TaskScheduler\obj\Release\net6.0\ref\TaskScheduler.dll

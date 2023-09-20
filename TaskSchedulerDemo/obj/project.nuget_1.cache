@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7/f5wh14BqCHOpHebBvO7PRT/FykOK4DOMN6XowR37Yu7mcogUTdKwtwuWXKEgp+6GJlNGpY2Ch6Grtd69Wkmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nikola\\Desktop\\Fakultet\\Treća godina\\Odabrana poglavlja iz operativnih sistema\\Projektni zadatak\\TaskSchedulerDemo\\TaskSchedulerDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nikola\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Nikola\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
